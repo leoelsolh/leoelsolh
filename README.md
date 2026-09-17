@@ -7,4 +7,4 @@ Sweden based
 
 Currently building a security scanner for MCP configurations, among other things. Notes and projects land on leoelsolh.com.
 
-eJPT next. Prevailing interest include Web security, Security in Ai tooling, and emerging LLM protocols.
+eJPT next. Prevailing interest include Web security, Linux systems, and Golang scripting.
