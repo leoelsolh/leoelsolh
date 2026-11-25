@@ -1,6 +1,6 @@
 ![Leo El-Solh](assets/leo-el-solh-github-banner.png)
 [![Blog](https://img.shields.io/badge/blog-leoelsolh.com-3b82f6?style=flat-square)](https://leoelsolh.com)
-[![CVE](https://img.shields.io/badge/CVE--2026--69263-CVSS_8.7-dc2626?style=flat-square)](LINK)
+[![CVE](https://img.shields.io/badge/CVE--2026--69263-CVSS_8.7-dc2626?style=flat-square)](https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-xc48-889x-5qmw#) 
 
 Self-taught security researcher and Go developer, based in Sweden.
 
