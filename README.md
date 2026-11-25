@@ -4,7 +4,7 @@
 
 Self-taught security researcher and Go developer, based in Sweden.
 
-- **CVE-2026-69263**: bypass of a critical RCE fix in FlowiseAI ([advisory](LINK))
+- **CVE-2026-69263**: bypass of a critical RCE fix in FlowiseAI ([advisory](https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-xc48-889x-5qmw#))
 - Bug bounty research since 2024, with findings reported to OpenAI
 - Focus: web security, LLM and AI-agent security, Linux, Go
 
